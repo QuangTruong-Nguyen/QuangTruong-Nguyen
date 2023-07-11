@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Quang Truong Nguyen
+# 👋 Hi, I’m Quang Truong Nguyen
 - 👀 I’m interested in  Math, Computer Science, Data Science.
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me nqtruong.mcs@gmail.com
